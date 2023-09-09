@@ -8,3 +8,6 @@ git log --oneline
 git checkout -b
 git clone 
 git remote -v
+git pull origin main
+git push
+git fetch
