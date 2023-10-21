@@ -3,11 +3,11 @@ git status
 git log
 git add ""
 git commit -m ""
-git restore
 git log --oneline
 git checkout -b
 git clone 
 git remote -v
+git restore
 git pull origin main
 git push
 git fetch
